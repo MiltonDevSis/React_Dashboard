@@ -2,7 +2,7 @@ import "./new.scss"
 
 const New = () => {
   return (
-    <div classname="new">
+    <div className="new">
         New
     </div>
   )
